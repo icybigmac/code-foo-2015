@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IGNAppQ5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="videoButton">VIDEOS</string>
+    <string name="articleButton">ARTICLES</string>
+    <string name="loadArticlesButton">Load More Articles</string>
+    <string name="loadVideosButton">Load More Videos</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="videoActivity">VIDEOS</string>
+    <string name="articleActivity">ARTICLES</string>
+
+</resources>
